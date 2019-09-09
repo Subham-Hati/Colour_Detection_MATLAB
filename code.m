@@ -103,7 +103,7 @@ while (framesAcquired <= 100)
         set(c, 'FontName', 'Arial', 'FontWeight', 'bold', 'FontSize', 12, 'Color', 'blue');
           end
     
-    hold off
+    hold on
     
 end
  
